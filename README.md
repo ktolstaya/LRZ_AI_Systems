@@ -1,5 +1,5 @@
 # LRZ_AI_Systems
-A short instruction how to start computations using GPU and conda on Reibniz Rechnenzentrum (LRZ) AI Systems
+A short instruction how to start computations using GPU and conda on Leibniz Rechnenzentrum (LRZ) AI Systems
 
 It is convenient to use MobaXTerm for accessing Linux drive, it has explorer window, and terminal window.
 To use GPU machines via SLURM you need first to submit a ticket to LRZ Helpdesk, to get access:
